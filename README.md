@@ -29,4 +29,3 @@ To run this project, follow these steps:
 4. Open your web browser and visit `http://localhost:3000` to access the website.
 
 This project demonstrates how to use EJS templates and partials to create a reusable and modular web application. It also showcases the integration of a simple contact form and a responsive header with collapsible navigation.
-g
